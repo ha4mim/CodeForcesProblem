@@ -1,0 +1,7 @@
+H:\CodeForcesProblem\01_problem282A\A.Bit++\bin\Debug\A.Bit++.exe.config
+H:\CodeForcesProblem\01_problem282A\A.Bit++\bin\Debug\A.Bit++.exe
+H:\CodeForcesProblem\01_problem282A\A.Bit++\bin\Debug\A.Bit++.pdb
+H:\CodeForcesProblem\01_problem282A\A.Bit++\obj\Debug\A.Bit++.csproj.AssemblyReference.cache
+H:\CodeForcesProblem\01_problem282A\A.Bit++\obj\Debug\A.Bit++.csproj.CoreCompileInputs.cache
+H:\CodeForcesProblem\01_problem282A\A.Bit++\obj\Debug\A.Bit++.exe
+H:\CodeForcesProblem\01_problem282A\A.Bit++\obj\Debug\A.Bit++.pdb
